@@ -1,5 +1,5 @@
 aid: spacebel
-name: Spacebel s.a.
+name: Spacebel
 type: Index
 deliveryModel:
   model: unknown
@@ -58,3 +58,4 @@ apis:
     url: openapi/spacebel-wfs-capabilities.xml
   - type: WFS
     url: https://gis.spacebel.be/geoserver/ows?service=WFS&request=GetCapabilities&version=2.0.0
+x-legal-name: Spacebel s.a.
